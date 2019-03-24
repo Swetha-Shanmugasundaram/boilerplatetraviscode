@@ -25,4 +25,4 @@ Ports used for all the services :-
 >> mongo server  :27017
 
 
-[![Build Status](https://travis-ci.org/stackroute/boilerplatetraviscode.svg?branch=master)](https://travis-ci.org/stackroute/boilerplatetraviscode)
+[![Build Status](https://travis-ci.org/Swetha-Shanmugasundaram/boilerplatetraviscode.svg?branch=master)](https://travis-ci.org/Swetha-Shanmugasundaram/boilerplatetraviscode)
