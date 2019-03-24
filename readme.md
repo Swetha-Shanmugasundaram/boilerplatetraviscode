@@ -23,3 +23,6 @@ Ports used for all the services :-
 >> zuulGateway   :8000
 >> eureka Server :9090
 >> mongo server  :27017
+
+
+[![Build Status](https://travis-ci.org/stackroute/<boilerplatetraviscode>.svg?branch=master)](https://travis-ci.org/stackroute/<boilerplatetraviscode>)
