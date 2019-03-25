@@ -26,3 +26,14 @@ Ports used for all the services :-
 
 
 [![Build Status](https://travis-ci.org/Swetha-Shanmugasundaram/boilerplatetraviscode.svg?branch=master)](https://travis-ci.org/Swetha-Shanmugasundaram/boilerplatetraviscode)
+[![codecov](https://codecov.io/gh/Swetha-Shanmugasundaram/boilerplatetraviscode/branch/<branch_name>/graph/badge.svg)](https://codecov.io/gh/Swetha-Shanmugasundaram/boilerplatetraviscode)
+![](https://img.shields.io/codecov/c/github/Swetha-Shanmugasundaram/boilerplatetraviscode.svg?style=flat)
+
+![](https://img.shields.io/snyk/vulnerabilities/github/Swetha-Shanmugasundaram/boilerplatetraviscode.svg?style=popout)
+![](https://img.shields.io/github/issues/Swetha-Shanmugasundaram/boilerplatetraviscode.svg?style=popout)
+
+![](https://img.shields.io/github/contributors/Swetha-Shanmugasundaram/boilerplatetraviscode.svg?style=popout)
+![](https://img.shields.io/github/last-commit/Swetha-Shanmugasundaram/boilerplatetraviscode.svg?style=popout)
+
+![](https://img.shields.io/github/repo-size/Swetha-Shanmugasundaram/boilerplatetraviscode.svg?style=popout)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
